@@ -1,0 +1,2 @@
+A system where the user provides the objective function of an ML model as SQL query and translates the query into an equivalent TensorFlow code, which can be automatically differentiated and optimized to learn the model weights. The system is built using the Django web framework, offering a userfriendly interface where users can input SQL queries
+to perform machine learning tasks such as training models or optimizing loss functions. 
